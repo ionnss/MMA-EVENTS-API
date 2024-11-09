@@ -80,4 +80,4 @@ func ScrapeUFCEvents(db *sql.DB) ([]models.Event, error) {
 	return events, nil
 }
 
-// Scrape
+// Scrape outra organização
