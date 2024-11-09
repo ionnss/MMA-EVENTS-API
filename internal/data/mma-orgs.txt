@@ -1,0 +1,30 @@
+UFC (Ultimate Fighting Championship)
+URL: https://www.ufc.com
+EventURL:https://www.ufc.com/events
+Bellator MMA
+URL: https://www.bellator.com
+EventURL: https://bellator.com/bcs-season/{currentYear}
+ONE Championship
+URL: https://www.onefc.com
+EventURL: https://www.onefc.com/events/#upcoming
+PFL (Professional Fighters League)
+URL: https://www.pflmma.com
+EventURL: https://pflmma.com/regular-season/{currentYear}
+Rizin Fighting Federation
+URL: https://jp.rizinff.com/
+EventURL: https://jp.rizinff.com/_tags/%E5%A4%A7%E4%BC%9A%E6%83%85%E5%A0%B1
+Cage Warriors
+URL: https://cagewarriors.com
+EventURL: https://cagewarriors.com/cage-warriors-events/
+KSW (Konfrontacja Sztuk Walki)
+URL: https://www.kswmma.com
+EventURL: https://www.kswmma.com/event
+Invicta FC
+URL: https://invictafc.com
+EventURL: https://invictafc.com/events-main/
+M-1 Global
+URL: http://m-1global.com
+EventURL: http://m-1global.com
+ACA (Absolute Championship Akhmat)
+URL: https://www.aca-mma.com
+EventURL: https://www.aca-mma.com/tournaments
